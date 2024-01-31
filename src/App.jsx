@@ -8,6 +8,7 @@ function App() {
     <>
       <div>
           <h1>react-redux practices following by anisul islam sir</h1>
+          <h3>Fetching data</h3>
       </div>
       
     </>
