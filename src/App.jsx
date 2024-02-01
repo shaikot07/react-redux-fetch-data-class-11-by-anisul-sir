@@ -1,5 +1,6 @@
 
 import './App.css'
+import Todos from './component/Todos'
 
 function App() {
 
@@ -7,8 +8,9 @@ function App() {
   return (
     <>
       <div>
-          <h1>react-redux practices following by anisul islam sir</h1>
-          <h3>Fetching data</h3>
+          <h1 className='text-3xl'>react-redux practices following by anisul islam sir</h1>
+          <h3 className='text-2xl'>Fetching data</h3>
+          <Todos></Todos>
       </div>
       
     </>
